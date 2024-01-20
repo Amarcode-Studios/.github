@@ -6,6 +6,9 @@ The loosely set deadline is June 24.
 
 If you'd like to get involved please send an email to info@dinuzzo.it 
 
+## Formation Tactics  
+https://www.youtube.com/watch?v=oGDym0pSWLM
+
 <!--
 **Here are some ideas to get you started:**
 
