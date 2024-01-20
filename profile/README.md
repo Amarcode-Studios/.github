@@ -2,7 +2,7 @@
 
 We are building a football management and action game inspired by some of the great games from the late 80s and early 90s: Player Manager and Kick Off.
   
-The loosely set deadline is June 24.  
+Lauch deadline is set to June 24.  
 
 If you'd like to get involved please send an email to info@dinuzzo.it 
 
