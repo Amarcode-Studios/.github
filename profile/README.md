@@ -7,7 +7,9 @@ The loosely set deadline is June 24.
 If you'd like to get involved please send an email to info@dinuzzo.it 
 
 ## Formation Tactics  
-https://www.youtube.com/watch?v=oGDym0pSWLM
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oGDym0pSWLM
+" target="_blank"><img src="http://img.youtube.com/vi/oGDym0pSWLM/0.jpg" 
+alt="Pitch Boss Player Manager" width="240" height="180" border="10" /></a>
 
 <!--
 **Here are some ideas to get you started:**
