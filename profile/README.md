@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are building a football management and action game inspired by some of the great games from the late 80s and early 90s: Player Manager and Kick Off.
+We are building Pitch Boss, a football management and action game inspired by some of the great games from the late 80s and early 90s: Player Manager and Kick Off.
   
 Lauch deadline is set to June 24.  
 
