@@ -4,7 +4,7 @@ We are building Soccer Squad, a football game inspired by some of the great game
   
 Lauch deadline is not set yet but should be during summer 2024
 
-Checkout and wishlist on Steam [Soccer Squad on Steam](https://store.steampowered.com/app/2838580/Soccer_Squad/)
+Checkout and wishlist [Soccer Squad on Steam](https://store.steampowered.com/app/2838580/Soccer_Squad/)
 
 If you'd like to get involved please send an email to info@dinuzzo.it 
 
