@@ -2,7 +2,7 @@
 
 We are building Soccer Squad, a football game inspired by some of the great games from the late 80s and early 90s: Player Manager and Kick Off.
   
-Lauch deadline is set to June 2024.  
+Lauch deadline is not set yet but should be during summer 2024.  
 
 If you'd like to get involved please send an email to info@dinuzzo.it 
 
